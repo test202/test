@@ -1,1 +1,1 @@
-andrzej 2
+example 2
